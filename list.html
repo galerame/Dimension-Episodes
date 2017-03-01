@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="list.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.js"></script>
+		<script src="list.js"></script>
+		<script id="template" type="text/x-handlebars-template">
+			{{#each hero}}
+					<a href="hero.html#{{@key}}" class="hero {{class}}">
+					<img src="images/hero/small/{{class}}/{{@key}}.jpg"></img>
+					<figcaption>{{name}}
+					{{#if title}}
+						<div>{{title}}</div>
+					{{/if}}
+					</figcaption>
+					</a>
+			{{/each}}
+		</script>
+		
+		<title>Ōki-sa (大きさ)</title>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div class="fade"></div>
+				<img src="images/header/divisions.jpg"></img>
+			</div>
+			<div id="menu">
+				<a onclick="filter('military')">Military</a>
+				<a onclick="filter('lieutenant')">Lieutenant</a>
+				<a onclick="filter('captain')">Captain</a>
+				<a onclick="filter('episodes')">Episodes</a>
+				<a onclick="filter('s01')">S01</a>
+				<a onclick="filter('s02')">S02</a>
+				<a onclick="filter('s03')">S03</a>
+				<a onclick="filter('s04')">S04</a>
+				<a onclick="filter('monsters')">Monsters</a>
+				<a onclick="filter('power')">Power</a>
+				<a href="/"><i class="fa fa-home fa-fw" aria-hidden="true"></i>&nbsp;</a>
+			</div>
+			<div id="content">
+			</div>
+		</div>
+	</body>
+</html>

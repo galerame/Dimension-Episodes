@@ -1,0 +1,54 @@
+.card {
+	width: 45%;
+	padding: 2%;
+	color: #999;
+}
+.desc h1{
+	color: #fff;
+	font-size: 2.5em;
+	text-align: center;
+}
+.desc h2 {
+	color: #fff;
+	font-size: 2em;
+	text-align: center;
+	text-transform: capitalize;
+}
+.image img {
+	width: 100%;
+}
+.skill {
+	width: 100%;
+}
+
+.skill h1 {
+	text-align: left;
+	color: #fff;
+	border-bottom: 1px solid white;
+}
+.skill table {
+	table-layout: fixed;
+	width: 100%;
+}
+.skin {
+	width: 40%;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.2em;
+	color: #fff;
+}
+.skin > img {
+	width: 100%;
+}
+.key {
+	vertical-align: top;
+	width: 10em;
+	color: #fff;
+}
+.value {
+	word-wrap: break-all;
+}
+.blank {
+	height: 1em;
+	colspan: 2;
+}

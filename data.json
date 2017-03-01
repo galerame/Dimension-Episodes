@@ -1,0 +1,17 @@
+{
+	"hero": {
+		"sniper": {
+			"name": "Sniper",
+			"class": "Lieutenant",
+			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!",
+			"stats": "Offense 3, Defense 2, Mobility 3, Power 3, Intelligence 2.",
+			"Spells": "(Skriver bara lätt om vad hen kan. Inget Q-W-E-R för det är inget spel!",
+			},
+			"skin" : {
+				"Lieutenant Level Sniper": {
+					"link": "military_lieutenant1"
+				}
+			}
+		}
+	}
+}
