@@ -29,12 +29,6 @@
 			"name": "Percy",
 			"class": "military",
 			"desc": ""
-			},
-			"skin" : {
-				"Repossessed": {
-					"link": "percy1"
-				}
-			}
 		},
 		
 		
@@ -66,14 +60,10 @@
 			"class": "lieutenant",
 			"desc": ""
 		},
-		"sniper": {
+		"military_lieutenant": {
 			"name": "Sniper",
 			"class": "lieutenant",
 			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!"
-			},
-			"skin" : {
-				"Lieutenant Level Sniper": {
-					"link": "military_lieutenant1"
 		},
 		"intelligence_lieutenant": {
 			"name": "Intelligence L",
@@ -89,33 +79,11 @@
 			"name": "Blade",
 			"class": "lieutenant",
 			"desc": ""
-			},
-			"skin" : {
-				"Twin Blade": {
-					"link": "execute_lieutenant1"
-				},
-				"Cat Style": {
-					"link": "execute_lieutenant2"
-				},
-				"Chain Transform": {
-					"link": "execute_lieutenant3"
-				},
-				"Kido Style": {
-					"link": "execute_lieutenant4"
-				},
-				"Second Release": {
-					"link": "execute_lieutenant5"
 		},
 		"torture_lieutenant": {
 			"name": "Torture L",
 			"class": "lieutenant",
 			"desc": ""
-			},
-			"skin" : {
-				"Second #": {
-					"link": "torture_lieutenant1"
-				}
-			}
 		},
 		
 		
