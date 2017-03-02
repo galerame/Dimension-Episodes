@@ -1,17 +1,336 @@
 {
 	"hero": {
+		"slash": {
+			"name": "Slash",
+			"class": "military",
+			"desc": ""
+		},
+		"pierce": {
+			"name": "Pierce",
+			"class": "military",
+			"desc": ""
+		},
+		"blunt": {
+			"name": "Blunt",
+			"class": "military",
+			"desc": ""
+		},
+		"doctor_linn": {
+			"name": "Doctor Linn",
+			"class": "military",
+			"desc": ""
+		},
+		"silvia": {
+			"name": "Silvia",
+			"class": "military",
+			"desc": ""
+		},
+		"percy": {
+			"name": "Percy",
+			"class": "military",
+			"desc": ""
+			},
+			"skin" : {
+				"Repossessed": {
+					"link": "percy1"
+				}
+			}
+		},
+		
+		
+		
+		
+		
+		"first_lieutenant": {
+			"name": "Yui",
+			"class": "lieutenant",
+			"desc": ""
+		},
+		"law_lieutenant": {
+			"name": "Law L",
+			"class": "lieutenant",
+			"desc": ""
+		},
+		"defense_lieutenant": {
+			"name": "Defense L",
+			"class": "lieutenant",
+			"desc": ""
+		},
+		"information_lieutenant": {
+			"name": "Information L",
+			"class": "lieutenant",
+			"desc": ""
+		},
+		"peace_lieutenant": {
+			"name": "Peace L",
+			"class": "lieutenant",
+			"desc": ""
+		},
 		"sniper": {
 			"name": "Sniper",
-			"class": "Lieutenant",
-			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!",
-			"stats": "Offense 3, Defense 2, Mobility 3, Power 3, Intelligence 2.",
-			"Spells": "(Skriver bara lätt om vad hen kan. Inget Q-W-E-R för det är inget spel!",
+			"class": "lieutenant",
+			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!"
 			},
 			"skin" : {
 				"Lieutenant Level Sniper": {
 					"link": "military_lieutenant1"
+		},
+		"intelligence_lieutenant": {
+			"name": "Intelligence L",
+			"class": "lieutenant",
+			"desc": ""
+		},
+		"medic_lieutenant": {
+			"name": "Medic L",
+			"class": "lieutenant",
+			"desc": ""
+		},
+		"execute_lieutenant": {
+			"name": "Blade",
+			"class": "lieutenant",
+			"desc": ""
+			},
+			"skin" : {
+				"Twin Blade": {
+					"link": "execute_lieutenant1"
+				},
+				"Cat Style": {
+					"link": "execute_lieutenant2"
+				},
+				"Chain Transform": {
+					"link": "execute_lieutenant3"
+				},
+				"Kido Style": {
+					"link": "execute_lieutenant4"
+				},
+				"Second Release": {
+					"link": "execute_lieutenant5"
+		},
+		"torture_lieutenant": {
+			"name": "Torture L",
+			"class": "lieutenant",
+			"desc": ""
+			},
+			"skin" : {
+				"Second #": {
+					"link": "torture_lieutenant1"
 				}
 			}
+		},
+		
+		
+		
+		
+		
+		"first": {
+			"name": "First",
+			"class": "captain",
+			"desc": ""
+		},
+		"law": {
+			"name": "Law",
+			"class": "captain",
+			"desc": ""
+		},
+		"defense": {
+			"name": "Defense",
+			"class": "captain",
+			"desc": ""
+		},
+		"information": {
+			"name": "Information",
+			"class": "captain",
+			"desc": ""
+		},
+		"peace": {
+			"name": "Peace",
+			"class": "captain",
+			"desc": ""
+		},
+		"military": {
+			"name": "Military",
+			"class": "captain",
+			"desc": ""
+		},
+		"intelligence": {
+			"name": "Intelligence",
+			"class": "captain",
+			"desc": ""
+		},
+		"medic": {
+			"name": "Medic",
+			"class": "captain",
+			"desc": ""
+		},
+		"execute": {
+			"name": "Execute",
+			"class": "captain",
+			"desc": ""
+		},
+		
+		
+		
+		
+		
+		"lilly": {
+			"name": "Lilly",
+			"class": "s01",
+			"desc": ""
+		},
+		
+		
+		
+		
+		
+		"elise": {
+			"name": "Elise",
+			"class": "s02",
+			"desc": ""
+		},
+		"luna": {
+			"name": "Luna",
+			"class": "s02",
+			"desc": ""
+		},
+		"phoenix": {
+			"name": "Phoenix",
+			"class": "s02",
+			"desc": ""
+		},
+		"helani": {
+			"name": "Helani",
+			"class": "s02",
+			"desc": ""
+		},
+		"omninous": {
+			"name": "Omninous",
+			"class": "s02",
+			"desc": ""
+		},
+		
+		
+		
+		
+		
+		"death_knight": {
+			"name": "Death Knight",
+			"class": "s03",
+			"desc": ""
+		},
+		"ssandra": {
+			"name": "Ssandra",
+			"class": "s03",
+			"desc": ""
+		},
+		"judgment": {
+			"name": "Judgment",
+			"class": "s03",
+			"desc": ""
+		},
+		"death_priest": {
+			"name": "Death Priest",
+			"class": "s03",
+			"desc": ""
+		},
+		"death_time": {
+			"name": "Death Time",
+			"class": "s03",
+			"desc": ""
+		},
+		"queen": {
+			"name": "Queen",
+			"class": "s03",
+			"desc": ""
+		},
+		
+		
+		
+		
+		
+		"lisa": {
+			"name": "Lisa",
+			"class": "s04",
+			"desc": ""
+		},
+		"kimimaro": {
+			"name": "Kimimaro",
+			"class": "s04",
+			"desc": ""
+		},
+		"black": {
+			"name": "Black",
+			"class": "s04",
+			"desc": ""
+		},
+		"monsters": {
+			"name": "Monsters",
+			"class": "s04",
+			"desc": ""
+		},
+		"vlad": {
+			"name": "Vlad",
+			"class": "s04",
+			"desc": ""
+		},
+		"leaf": {
+			"name": "Leaf",
+			"class": "s04",
+			"desc": ""
+		},
+		"creature": {
+			"name": "Creature",
+			"class": "s04",
+			"desc": ""
+		},
+		
+		
+		
+		
+		
+		"blood": {
+			"name": "Blood",
+			"class": "monsters",
+			"desc": ""
+		},
+		"flesh": {
+			"name": "Flesh",
+			"class": "monsters",
+			"desc": ""
+		},
+		"spirit": {
+			"name": "Spirit",
+			"class": "monsters",
+			"desc": ""
+		},
+		"physical": {
+			"name": "Physical",
+			"class": "monsters",
+			"desc": ""
+		},
+		"level3": {
+			"name": "Level 3",
+			"class": "monsters",
+			"desc": ""
+		},
+		"level4": {
+			"name": "Level 4",
+			"class": "monsters",
+			"desc": ""
+		},
+		
+		
+		
+		
+		
+		"zanpakuto": {
+			"name": "Zanpakuto",
+			"class": "power",
+			"desc": ""
+		},
+		"kido": {
+			"name": "Kido",
+			"class": "power",
+			"desc": ""
 		}
 	}
 }
