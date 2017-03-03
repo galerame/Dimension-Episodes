@@ -13,9 +13,6 @@ window.onload = function() {
 				if(data.title) {
 					document.title += " - " + data.title;
 				}
-				var header = document.querySelector("#header img");
-				header.src = "images/header/"+ data.class + ".jpg";
-				header.style.visibility = "visible";
 			}
 		}
 		xhr.open("GET", "/data.json");
