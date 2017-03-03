@@ -28,7 +28,12 @@
 		"percy": {
 			"name": "Percy",
 			"class": "military",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Repossessed": {
+					"link": "percy1"
+				}
+			}
 		},
 		
 		
@@ -63,7 +68,12 @@
 		"military_lieutenant": {
 			"name": "Sniper",
 			"class": "lieutenant",
-			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!"
+			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!",
+			"skin" : {
+				"Lieutenant Level": {
+					"link": "military_lieutenant1"
+				}
+			}
 		},
 		"intelligence_lieutenant": {
 			"name": "Intelligence L",
@@ -78,12 +88,34 @@
 		"execute_lieutenant": {
 			"name": "Blade",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Blade Twins": {
+					"link": "execute_lieutenant1"
+				},
+				"Cat Style": {
+					"link": "execute_lieutenant2"
+				},
+				"Chain Transformation": {
+					"link": "execute_lieutenant3"
+				},
+				"Kido Style": {
+					"link": "execute_lieutenant4"
+				},
+				"Full Power Release": {
+					"link": "execute_lieutenant5"
+				}
+			}
 		},
 		"torture_lieutenant": {
 			"name": "Torture L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Demon Power": {
+					"link": "torture_lieutenant1"
+				}
+			}
 		},
 		
 		
@@ -123,7 +155,12 @@
 		"intelligence": {
 			"name": "Intelligence",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Captain Power": {
+					"link": "intelligence1"
+				}
+			}
 		},
 		"medic": {
 			"name": "Medic",
@@ -153,12 +190,22 @@
 		"elise": {
 			"name": "Elise",
 			"class": "s02",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Frost Power Release": {
+					"link": "elise1"
+				}
+			}
 		},
 		"luna": {
 			"name": "Luna",
 			"class": "s02",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Full Metal": {
+					"link": "luna1"
+				}
+			}
 		},
 		"phoenix": {
 			"name": "Phoenix",
@@ -238,7 +285,12 @@
 		"vlad": {
 			"name": "Vlad",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"skin" : {
+				"Blood Release": {
+					"link": "vlad1"
+				}
+			}
 		},
 		"leaf": {
 			"name": "Leaf",
