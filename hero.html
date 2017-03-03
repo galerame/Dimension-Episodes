@@ -9,10 +9,14 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.js"></script>
 		<script src="hero.js"></script>
 		<script id="template" type="text/x-handlebars-template">
+			<div class="card image">
+				<img src="images/hero/big/{{class}}/{{link}}.jpg"></img>
+			</div>
 			<div class="card desc">
 				<h1>{{name}} {{#if title}}-{{/if}} {{title}}</h1>
 				<h2>{{class}}</h2>
 				{{{desc}}}
+				{{{zanpakuto}}}
 				{{{stats}}}
 			</div>
 			{{#each skill}}
