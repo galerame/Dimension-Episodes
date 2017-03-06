@@ -14,6 +14,12 @@
 	text-align: center;
 	text-transform: capitalize;
 }
+.desc h3 {
+	color: #fff;
+	font-size: 1em;
+	text-transform: capitalize;
+	padding-top: 1em;
+}
 .image img {
 	width: 100%;
 }
