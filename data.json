@@ -3,32 +3,44 @@
 		"slash": {
 			"name": "Slash",
 			"class": "military",
-			"desc": ""
+			"desc": "hej nice!",
+			"zanpakuto": "bajs",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"pierce": {
 			"name": "Pierce",
 			"class": "military",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"blunt": {
 			"name": "Blunt",
 			"class": "military",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"doctor_linn": {
 			"name": "Doctor Linn",
 			"class": "military",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"silvia": {
 			"name": "Silvia",
 			"class": "military",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"percy": {
 			"name": "Percy",
 			"class": "military",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Repossessed": {
 					"link": "percy1"
@@ -43,32 +55,44 @@
 		"first_lieutenant": {
 			"name": "Yui",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"law_lieutenant": {
 			"name": "Law L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"defense_lieutenant": {
 			"name": "Defense L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"information_lieutenant": {
 			"name": "Information L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"peace_lieutenant": {
 			"name": "Peace L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"military_lieutenant": {
 			"name": "Sniper",
 			"class": "lieutenant",
 			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Lieutenant Level": {
 					"link": "military_lieutenant1"
@@ -78,17 +102,23 @@
 		"intelligence_lieutenant": {
 			"name": "Intelligence L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"medic_lieutenant": {
 			"name": "Medic L",
 			"class": "lieutenant",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"execute_lieutenant": {
 			"name": "Blade",
 			"class": "lieutenant",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Blade Twins": {
 					"link": "execute_lieutenant1"
@@ -111,6 +141,8 @@
 			"name": "Torture L",
 			"class": "lieutenant",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Demon Power": {
 					"link": "torture_lieutenant1"
@@ -125,27 +157,37 @@
 		"first": {
 			"name": "First",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"law": {
 			"name": "Law",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"defense": {
 			"name": "Defense",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"information": {
 			"name": "Information",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"peace": {
 			"name": "Peace",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"military": {
 			"name": "Military",
@@ -156,6 +198,8 @@
 			"name": "Intelligence",
 			"class": "captain",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Captain Power": {
 					"link": "intelligence1"
@@ -165,12 +209,16 @@
 		"medic": {
 			"name": "Medic",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"execute": {
 			"name": "Execute",
 			"class": "captain",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		
 		
@@ -180,7 +228,9 @@
 		"lilly": {
 			"name": "Lilly",
 			"class": "s01",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		
 		
@@ -191,6 +241,8 @@
 			"name": "Elise",
 			"class": "s02",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Frost Power Release": {
 					"link": "elise1"
@@ -201,6 +253,8 @@
 			"name": "Luna",
 			"class": "s02",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Full Metal": {
 					"link": "luna1"
@@ -210,17 +264,23 @@
 		"phoenix": {
 			"name": "Phoenix",
 			"class": "s02",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"helani": {
 			"name": "Helani",
 			"class": "s02",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"omninous": {
 			"name": "Omninous",
 			"class": "s02",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		
 		
@@ -230,32 +290,44 @@
 		"death_knight": {
 			"name": "Death Knight",
 			"class": "s03",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"ssandra": {
 			"name": "Ssandra",
 			"class": "s03",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"judgment": {
 			"name": "Judgment",
 			"class": "s03",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"death_priest": {
 			"name": "Death Priest",
 			"class": "s03",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"death_time": {
 			"name": "Death Time",
 			"class": "s03",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"queen": {
 			"name": "Queen",
 			"class": "s03",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		
 		
@@ -265,27 +337,37 @@
 		"lisa": {
 			"name": "Lisa",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"kimimaro": {
 			"name": "Kimimaro",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"black": {
 			"name": "Black",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"monsters": {
 			"name": "Monsters",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"vlad": {
 			"name": "Vlad",
 			"class": "s04",
 			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
 			"skin" : {
 				"Blood Release": {
 					"link": "vlad1"
@@ -295,12 +377,16 @@
 		"leaf": {
 			"name": "Leaf",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"creature": {
 			"name": "Creature",
 			"class": "s04",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		
 		
@@ -310,32 +396,44 @@
 		"blood": {
 			"name": "Blood",
 			"class": "monsters",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"flesh": {
 			"name": "Flesh",
 			"class": "monsters",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"spirit": {
 			"name": "Spirit",
 			"class": "monsters",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"physical": {
 			"name": "Physical",
 			"class": "monsters",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"level3": {
 			"name": "Level 3",
 			"class": "monsters",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"level4": {
 			"name": "Level 4",
 			"class": "monsters",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		
 		
@@ -345,12 +443,16 @@
 		"zanpakuto": {
 			"name": "Zanpakuto",
 			"class": "power",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
 		"kido": {
 			"name": "Kido",
 			"class": "power",
-			"desc": ""
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		}
 	}
 }
