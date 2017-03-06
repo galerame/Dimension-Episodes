@@ -220,6 +220,13 @@
 			"zanpakuto": "",
 			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
 		},
+		"torture": {
+			"name": "Torture",
+			"class": "captain",
+			"desc": "",
+			"zanpakuto": "",
+			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+		},
 		
 		
 		
