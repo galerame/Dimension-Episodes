@@ -3,44 +3,44 @@
 		"slash": {
 			"name": "Slash",
 			"class": "military",
-			"desc": "hej nice!",
-			"zanpakuto": "bajs",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Slash's one of the top five during the military, and the one in charge then their lieutenant isn't with them because he is best in strategy and teamwork.",
+			"zanpakuto": "Slash has a zanpakuto with a shape as a kama split in two connected by a chain, it let him catch his enemies then attack. It second release increases it's size and have two blades each kama.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [2] Stamina [1]"
 		},
 		"pierce": {
 			"name": "Pierce",
 			"class": "military",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Pierce's one of the top five during the military, he's not just excellent in fighting, he's best of all top five by fighting with weapon.",
+			"zanpakuto": "Pierce has a zanpakuto with a shape as a spear, it has the power to increase its size to let him pierce through enemies in long distance, or helping him to jump or other things in his fighting style.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]"
 		},
 		"blunt": {
 			"name": "Blunt",
 			"class": "military",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Blunt's one of the top five during the military, he's not the smartest or fastest, but he's strength are increadible. He's best with magnetic power to control his weapon",
+			"zanpakuto": "Blunt has a zanpakuto with a shape as a mace, it can multiplies or get bigger with his will and power.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]"
 		},
 		"doctor_linn": {
 			"name": "Doctor Linn",
 			"class": "military",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Linn's one of the top five during the military, and also their doctor, can heal and not bad as you think to just be a doctor, she also the fastest in their team!",
+			"zanpakuto": "Linn has a zanpakuto with a shape as a dagger, it has the power to heal who she wants by chop the tip of the dagger in to the wound, and say it's name.",
+			"stats": "Stats: Offensive [1] Defensive [1] Mobility [2] Force [1] Wisdom [2] Stamina [1]"
 		},
 		"silvia": {
 			"name": "Silvia",
 			"class": "military",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Silvia is the new during the military, practices to reach a higher level, but she also is a strong fighter and have a greate zanpakuto.",
+			"zanpakuto": "Silvia has a zanpakuto with a shape as a curved sword, but can also become a long crescent that can slice enemies by spinning around.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]"
 		},
 		"percy": {
 			"name": "Percy",
 			"class": "military",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Percy only appears in one episodes, he becomes possessed by his own zanpakuto! This part just want to show how the captain of the 9th Division act.",
+			"zanpakuto": "Percy has a zanpakuto with a shape as a sword, it has the power to control the shadow! It's second release transforming him in to a shadow.",
+			"stats": "Stats: Offensive [1] Defensive [1] Mobility [1] Force [3] Wisdom [1] Stamina [1]",
 			"skin" : {
 				"Repossessed": {
 					"link": "percy1"
@@ -55,44 +55,44 @@
 		"first_lieutenant": {
 			"name": "Yui",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Yui's Lieutenant during the 1st Division, the youngest of all the lieutenants, but being the youngest doesn't make her the most powerful, but she is one of the most knowledgeable in Tsuyo and also a teacher in Tsuyo at the Tsuyo school.",
+			"zanpakuto": "Yui has a zanpakuto with a shape as a staff, it has the power to create fire and let her bend it. She has a good control with the fire and make it easy to control it into shapes like walls or tornados.",
+			"stats": "Stats: Offensive [2] Defensive [5] Mobility [2] Force [4] Wisdom [5] Stamina [3]"
 		},
 		"law_lieutenant": {
-			"name": "Law L",
+			"name": "Brenda",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Brenda's Lieutenant during the 2nd Division, and also known as the flash because of her technique to teleport with just a blink. She also is expert to leave behind Tsuyo spells while she blink that let her eazy trap her enemies. One spell she always does is creating small bubbles around the area, they explode like real bombs.",
+			"zanpakuto": "Brenda has a zanpakuto with a shape as a fencing sword, it has the power to multiplie metal atoms, to make a weapon heavier to stopping them to fend off her attacks or with other words, stopping them to use their weapon completely! It second release is a umbrella with the blade between the grip and the tip a few centimeters above. It can create a strong magical blast by purely Tsuyo, that stack by fencing with her sword and absorbing her opponent's power.",
+			"stats": "Stats: Offensive [4] Defensive [4] Mobility [3] Force [3] Wisdom [5] Stamina [4]"
 		},
 		"defense_lieutenant": {
-			"name": "Defense L",
+			"name": "Conan",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Conan's Lieutenant during the 3rd Division, has much to learn to being a lieutenant in the defences, but is also the strongest in fighting by all of the lieutenants because of his calmness and listen to his enemies.",
+			"zanpakuto": "Conan has a zanpakuto with a shape as a Katana split in two as twins, but always fighting with one arm on his back until he needs the second one. The zanpakuto has a demon pet that Conan can control, a demon who moves between dimensions and burn all things it bites and can create a burning ray from it's horns. It second release become petrified magma around the handles and a burning blade that not only burns down everything it touches, without melting down, destroying as if it is made out of Tsuyo.",
+			"stats": "Stats: Offensive [4] Defensive [4] Mobility [3] Force [3] Wisdom [4] Stamina [4]"
 		},
 		"information_lieutenant": {
-			"name": "Information L",
+			"name": "Yenene",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Yenene's Lieutenant during the 4th Division, The only lieutenant who actually barely talk to anyone except the person she must be. Most people are afraid of her, The only lieutenant who actually barely talk to anyone except the person she must be. Most people are afraid of her, and the others may be surprised to even see a smile from her lips. She has always been different, but it is why just she was chosen to become the lieutenant from the captain of the 4th Division.",
+			"zanpakuto": "Yenene has a zanpakuto with a shape as a sword with a snake head on the grip and marks on the blade. It has the power to paralyzes the body parts she cuts, but the bigger the wound, the faster it gives effect. It second release open the eyes of the snake on the grip, anyone who looks at her sword turned into stone. It also has the Force to summon snakes who listen to her commands and one bite from this snakes paralyzes the body in a short time.",
+			"stats": "Stats: Offensive [3] Defensive [2] Mobility [2] Force [4] Wisdom [4] Stamina [2]"
 		},
 		"peace_lieutenant": {
-			"name": "Peace L",
+			"name": "Felicia",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Felicia's Lieutenant during the 5th Division, to be lieutenant in the division of peace, she most become the strongest, to protect everyone! She doesn't speak like a bitch, but she know what real pain is. (Elise killed her parents about 20 years ago)",
+			"zanpakuto": "Felicia has a zanpakuto with a shape as a greate sword, one of the strongest swords they ever seen. It second release can only start if she has the tip under the ground, it takes energy from the nature and when she has release it, it let her control the earth and nature.",
+			"stats": "Stats: Offensive [5] Defensive [2] Mobility [1] Force [3] Wisdom [3] Stamina [4]"
 		},
 		"military_lieutenant": {
 			"name": "Sniper",
 			"class": "lieutenant",
-			"desc": "Sniper is a lieutenant in the military, known for being one of the top five in the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper is awesome with her dual swords with a power to transform into a bow that launch kido!",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Sniper's Lieutenant during the 6th Division, known for being one of the top five during the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper got the title of lieutenant, but not great as the others, she has fought for years to be accepted for 100% out of her captain, yet only seen as one of the five in the military.",
+			"zanpakuto": "Sniper has a zanpakuto with a shape as a sword split in two as twins, it is just two twin sword into she realese to it's full form, a bow with a power to launch Tsuyo as arrows. Multiplies from 1 to one hundred of arrows with an ability to let her focus on the arrows and control them with her power. She's not as powerful yet, that makes it takes a lot of her energy to induce this power, but they are powerful enough to kill anyone who is not in a much higher level.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [3] Wisdom [1] Stamina [1] <br>Stats: Offensive [4] Defensive [1] Mobility [3] Force [5] Wisdom [2] Stamina [3]",
 			"skin" : {
 				"Lieutenant Level": {
 					"link": "military_lieutenant1"
@@ -100,49 +100,49 @@
 			}
 		},
 		"intelligence_lieutenant": {
-			"name": "Intelligence L",
+			"name": "Misty",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Misty's Lieutenant during the 7th Division, and also is the one who thinks the most about responsibility. Because of her captain who always bring her with him then they have meetings just to learn her how it is in the captain level, then the others doesn't think their lieutenant shall take that responsibility. That also makes her a mindset that when they do not have any recruits who can take the job, she takes responsibility.",
+			"zanpakuto": "Misty has a zanpakuto with a shape as a katana, it is the first zanpakuto with two powers, a water shadow and a fire shadow. They let her create a waterball or a fireball by her will and together they can create hot steam. She is like she was a spell caster, without a second release, she can say their name and create waves and mist by her water power to chill enemies or burn them with hot water or blind them by a thick smoke. Her two strongest attacks is a circle that freeze everything inside, and a whirl by fire! They say it is her two second release just because she say their names, but it isn't. It just give her the power to create this elements and that makes her strong.",
+			"stats": "Stats: Offensive [3] Defensive [3] Mobility [2] Force [3] Wisdom [3] Stamina [3]"
 		},
 		"medic_lieutenant": {
-			"name": "Medic L",
+			"name": "Nidra",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Nidra's Lieutenant during the 8th Division, sister to doctor Linn and excellent Tsuyo user. You doesn't know her so much except that she is caring and friendly as a doctor should be, but to be her enemy, you never forget.",
+			"zanpakuto": "Nidra has a zanpakuto with a shape as a short sword, it has the power to create illusions just have been seen by the enemy, that let Nidra decide what should happen. It second release transforming into a mythological creature that can create nightmares into reality, illusions into reality and get their enemies to go to sleep.",
+			"stats": "Stats: Offensive [1] Defensive [4] Mobility [1] Force [2] Wisdom [3] Stamina [1]"
 		},
 		"execute_lieutenant": {
 			"name": "Blade",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Blade's Lieutenant during the 9th Division, and also is the one closest to their captain, she sees her captain as her big sister and always want to make her proud. She is the fastest by all the lieutenant beside #'s flash technique. She get a powerful Tsuyo control and can use a fighting style with just Tsuyo as her weapon.",
+			"zanpakuto": "Blade has a zanpakuto with a shape as a dagger, it second release became twin daggers that also have two transformations. The first is her claws, the daggers are going stuck with her arms and fight as if it was one with her. The second form is a chain as a tail, let her fight with an incredible danger! It also have a third form, by releasing it's full power, as if it was a third release! Becoming like a big shuriken, let her control it with her mind and floating beside her.",
+			"stats": "Stats: Offensive [4] Defensive [1] Mobility [5] Force [2] Wisdom [2] Stamina [2]",
 			"skin" : {
-				"Blade Twins": {
+				"Second Release": {
 					"link": "execute_lieutenant1"
 				},
-				"Cat Style": {
+				"Tsuyo Style": {
+					"link": "execute_lieutenant4"
+				},
+				"Claws Transformation": {
 					"link": "execute_lieutenant2"
 				},
 				"Chain Transformation": {
 					"link": "execute_lieutenant3"
 				},
-				"Kido Style": {
-					"link": "execute_lieutenant4"
-				},
-				"Full Power Release": {
+				"Full Power": {
 					"link": "execute_lieutenant5"
 				}
 			}
 		},
 		"torture_lieutenant": {
-			"name": "Torture L",
+			"name": "Asura",
 			"class": "lieutenant",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Asura's Lieutenant during the 10th Division. Maybe he is not exactly the most legal thing lieutenant, but he cares more about peace than you think. His bossy behavior is to show the territory, what he has learned is to show the strong and cocky side, because if you not, they will kick you down as he was as a child with a rough childhood.",
+			"zanpakuto": "Asura has a zanpakuto with a shape as a demon sword, it has the power to implant demonic power in to his body, that makes his arm bigger and get a black skin. The sword also get increased size by how much power he use, and all the demonic power he get, increases his muscles that increases his strength, speed, power and an ability to fire Tsuyo with a shape as black lightning. It second release make the blade into a dimension, that makes it impossible to see and let it cut whatever it wants that isn't more powerful. His body also can go in to the dimension world of his, to you it's like he teleporting with a sort of a blink technique.",
+			"stats": "Stats: Offensive [3] Defensive [1] Mobility [2] Force [3] Wisdom [2] Stamina [3]",
 			"skin" : {
 				"Demon Power": {
 					"link": "torture_lieutenant1"
@@ -157,51 +157,53 @@
 		"first": {
 			"name": "First",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 1st Division, the one who created all of this steps! But more about him nobody really knows, except he is really intelligent.",
+			"zanpakuto": "They says he has the power to create pain, and controlling the bodies of his enemies. They said he is the captain of control and forgiveness!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"law": {
 			"name": "Law",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 2nd Division, and also is the most unserious by all the captains, but also the one who most make so all the captains' is doing their jobs right and follow the law!",
+			"zanpakuto": "In a long fight against an enemy on season 04, his word was: This? This isn't my zanpakuto, I bought it at Ikea... And then he takes out a pen, this is my zanpakuto! And yes, his zanpakuto has the power to create all things he draws into reality!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"defense": {
 			"name": "Defense",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 3rd Division, and also is like a monk and the kindest of all the captains, thinking the best for everyone. Proud of his lieutenant, but know he have much to learn to being inside the 3rd division! # is also the only captain that can fly and is excellent by healing and being defencive.",
+			"zanpakuto": "# has a zanpakuto with a shape as a staff, it has the power to ? Earthquake or Air ?",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"information": {
 			"name": "Information",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 4th Division, also owns a laboratory (as Area 51), thats only the Captain During The 1st Division knows the information from it. # Has never like it and not the Captain ether, but # is the smartest of all the captains. He is not the kindest to his own lieutenant, but if she not betraying him, he can show appreciation.",
+			"zanpakuto": "# is the only one who has a zanpakuto with a shape as a amulet, it has the power to create anti-Tsuyo that floating like a soul with a shaip of an animal. It's second release is a shape as an dagger, with a power to let him control bodies he cut off inside his dimension he can send him and everyone inside a big radius. Yes, he can juggle with body parts!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"peace": {
 			"name": "Peace",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 5th Division, and reminiscent of a samurai, fight for justice and his main task is to keep everything in peace. And also need to be the strongest to protect everything, and teaches his lieutenant the same that she told the lieutenant during The 10th Division. # also sees # as his brother and always comes to the rescue.",
+			"zanpakuto": "# has a zanpakuto with a shape as a katana, in the beginning you will think this zanpakuto is creating the forces # always create by swing this blade, but it isn't, it is his power like # is bending her blades but creating a physical force by his power. #'s zampakuto real power is to pierce through everything in a blink, let the sword shape itself how it wants until it reaches it's target. <br>He sais: To your eyes, it was faster than a blink, but if I use this technique against one of my captains, I had been defeated. This technique has a weakness, when I use this technique I'm completely open. And as I said, you just were not prepared, this technique is not even close to the speed, comparison with one of the captains.",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"military": {
 			"name": "Military",
 			"class": "captain",
-			"desc": ""
+			"desc": "#'s Captain during the 6th Division, looks like he is dissapointed to his squad and lieutenant, but it is his way of showing his gratitude. He sais it in season 02 when he takes out Sniper to a cave for the first time, by training her to a lieutenant level. # is like brother to # and is the kind of captain that just do the job when his squad can't handle it, but also the kind of captain who think that losing a mission is to losing their life, but doesn't mean he lets his squad die!",
+			"zanpakuto": "# has a zanpakuto with a shape as a sword, it has the power to blood storing, healing #'s wound by hurting enemies, but because of his life to fight, he get a big storage by just blood, makes him invulnerable to die or cutt his parts because the regenation is faster the farther it go. It second release is his armor with a skull on his chest, sucking the energy from enemies per second they are fighting.",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"intelligence": {
-			"name": "Intelligence",
+			"name": "Wisdom",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "#'s Captain during the 7th Division, and also the most closest to a vampire, used to summon bats that draining energy from his enemies. He always taking his lieutenant with him on the meetings, just to learn how it is to be a captain, then the others think it is too early. But he got a sickness and want his lieutenant to take over after him.",
+			"zanpakuto": "# has a zanpakuto with a shape as a sword, it has the power to create and control shadows, let him move between the shadows.",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
 			"skin" : {
-				"Captain Power": {
+				"Captain Force": {
 					"link": "intelligence1"
 				}
 			}
@@ -209,37 +211,69 @@
 		"medic": {
 			"name": "Medic",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 8th Division, and also the one who carry the most, she is not just a medic, she is a excellent spell user and realy strong. She can't heal like the Captain during the 3rd Division, but she takes the second place in the medic and also proud of her lieutenant.",
+			"zanpakuto": "# has a zanpakuto with a shape as a stave, has the power to create a mirror that let her see the future, and also get back to the past few seconds. It second release is a sword of fate, it has the power to create the own fate, if she become killed, it just rewinds until the enemy's fate is complete. (Like Danzo vs Sasuke) but more powerful!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
+			"skin" : {
+				"Silver Dragon": {
+					"link": "medic1"
+				}
+			}
 		},
 		"execute": {
 			"name": "Execute",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "#'s Captain during the 9th Division, and also is the most responsible captain bland de 10 divisions. She is both the judge and also the one who performing the job that also is the execute! She follows the laws to 100% as if she owns them, and when she pulls up to the crime scene, she is always with the police forces and sometimes her lieutenant who not only selected, but also like her little sister. She also hate the Captain during the 4th Division and his thinking just because she knows he not just want just the information from the enemies, she knows he also is doing something awful in his lab.!",
+			"zanpakuto": "#'s fighting style is by magnetic technique to bend her blades, but one of her blades is her zanpakuto that has the power to plant a diamond inside the enemy the blade has hurt, then she sais the name, this diamond will destroy the soul like it was the worst punishment you can get! It second release let it transform into her self by a living clone with just 50% of her real power just to control it, let her fight with the mind and examine her enemy.",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"torture": {
 			"name": "Torture",
 			"class": "captain",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Tantalus's Captain during the 10th Division, also not be the most lawful captain because he fixes information to the 4th captain and always makes in his way. He is the only captain who always follow them when doing their duty, and always brings his lieutenant. Tantalus is known to be him, no one ever managed to escape from, once he decided to catch, it's over. There may be good captains, but he has been given the title because he always works outside!",
+			"zanpakuto": "Tantalus has a zanpakuto with a shape as a sword, it has the power to create chain were he stand and were he wants it to come. It second release transforming the blade into a chain, can be endless.",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		
 		
 		
 		
 		
+		"azmon": {
+			"name": "Azmon",
+			"class": "s01",
+			"desc": "Azmon is one of the five monsters in rank 5, but a strange force to be able to copy and create bones from his body. Can also be used to protect himself from weapons that could cut his skin. His enemy is Linn from the military forces! After a long fight Linn's sister Nidra is coming to rescue!",
+			"zanpakuto": "",
+			"stats": "Stats: Offensive [2] Defensive [2] Mobility [1] Force [1] Wisdom [1] Stamina [3]"
+		},
+		"drake": {
+			"name": "Drake",
+			"class": "s01",
+			"desc": "Drake is one of the five monsters in rank 5, his fighting with his zanpakuto with a shape as a sword, but not as special body as Wolf, Tauros or Azmon, instead his release is to transforming into a fire breathing dragon! His enemy is Slash from the military forces!",
+			"zanpakuto": "",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [2] Wisdom [1] Stamina [2]"
+		},
 		"lilly": {
 			"name": "Lilly",
 			"class": "s01",
-			"desc": "",
+			"desc": "Lilly is one of the five monsters in rank 5, and the strongest. She has the power to release the nature into her command, and also her zanpakuto that can shoot a powerful force by nature energy that can seek her target! She also can fly!. Her enemy is Sniper from the military forces!",
 			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"stats": "Stats: Offensive [1] Defensive [1] Mobility [1] Force [2] Wisdom [2] Stamina [2]"
 		},
-		
+		"tauros": {
+			"name": "Tauros",
+			"class": "s01",
+			"desc": "Tauros is one of the five monsters in rank 5, with a powerful body and strength with his big axe he can roll a tree with just one cut! His enemy is Blunt from the military forces!",
+			"zanpakuto": "",
+			"stats": "Stats: Offensive [3] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [2]"
+		},
+		"wolf": {
+			"name": "Wolf",
+			"class": "s01",
+			"desc": "Wolf is one of the five monsters in rank 5, he is fighting like a wolf, with his claws without a zanpakuto. His senses in hearing, respond faster and his speed and strength are hugely incredible! His enemy is Pierce from the military forces!",
+			"zanpakuto": "",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [2] Force [1] Wisdom [1] Stamina [2]"
+		},
 		
 		
 		
@@ -247,11 +281,11 @@
 		"elise": {
 			"name": "Elise",
 			"class": "s02",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Elise is one of the 5 angels from an other dimension that seeking power. She's like a barbarian, love to fight and strong as hell with her Poleaxe. Her first opponents is Asura, Lieutenant during the 10th Division, but can't be seen as a fight because it just in like one minute before his alrady defeated! But in the same second, Felicia, Lieutenant during the 5th Division, challenges her, but become defeated after Elise activating her angel power! It is said that she was the one who killed Felicias parents from twenty years by now! Then in the end of the season, Sniper, Lieutenant during the 6th Division, defeats her!",
+			"zanpakuto": "Then Elise release her angel power, everything close to her become frozen by her power and she become white!",
+			"stats": "Stats: Offensive [4] Defensive [1] Mobility [1] Force [4] Wisdom [2] Stamina [5]",
 			"skin" : {
-				"Frost Power Release": {
+				"Frost Force Release": {
 					"link": "elise1"
 				}
 			}
@@ -259,9 +293,9 @@
 		"luna": {
 			"name": "Luna",
 			"class": "s02",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Luna is one of the 5 angels from an other dimension that seeking power. She's like an assassin, fighting with her blades that she bending by magnetic power. Yes, she is a metal Angel! Her first fight is agains Blade, Lieutenant during the 9th Division, and says that her captain is not as good as Luna in magnetic power, then loose agains Luna's full power! Then in the end of the season, Brenda, Lieutenant during the 2nd Division, defeats her!",
+			"zanpakuto": "Luna hasn't a release, but she has the power to control a number of swords, but when she is at the strongest, she has both metal armor, her metal lie and big blades around her!",
+			"stats": "Stats: Offensive [4] Defensive [1] Mobility [2] Force [2] Wisdom [2] Stamina [4]",
 			"skin" : {
 				"Full Metal": {
 					"link": "luna1"
@@ -271,23 +305,23 @@
 		"phoenix": {
 			"name": "Phoenix",
 			"class": "s02",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Phoenix is one of the 5 angels from an other dimension that seeking power. She's like a fighter with fire power! Her first fight is agains Misty, Lieutenant during the 7th Division! Then in the end of the season, Yuri, Lieutenant during the 1st Division, defeats her!",
+			"zanpakuto": "Her sword can create fire like her wings that can burn and create winds by fire!",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [2] Force [4] Wisdom [2] Stamina [3]"
 		},
 		"helani": {
 			"name": "Helani",
 			"class": "s02",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Helani is one of the 5 angels from an other dimension that seeking power. She's like Elise, but in distance battle. Her first fight is agains Nidra, Lieutenant during the 8th Division! Then in the end of the season, Yenene, Lieutenant during the 4th Division, defeats her!",
+			"zanpakuto": "Her power is to control the weather, create lightning, rain and winds!",
+			"stats": "Stats: Offensive [1] Defensive [1] Mobility [1] Force [4] Wisdom [2] Stamina [3]"
 		},
 		"omninous": {
 			"name": "Omninous",
 			"class": "s02",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Omninous is the leader of the 5 angels, comes from the other dimension and just seeking power in the new world, he became interested in the city and theire powers. In the end of the season he get a challenge agains Conan, Lieutenant during the 3rd Division!",
+			"zanpakuto": "He got the power to open portals and create everything from the dimensions in to the world he standing on. In the end of this season, before he dies, he happened open a portal to the twin, that start the sentence for S03!",
+			"stats": "Stats: Offensive [5] Defensive [3] Mobility [4] Force [3] Wisdom [4] Stamina [4]"
 		},
 		
 		
@@ -297,44 +331,57 @@
 		"death_knight": {
 			"name": "Death Knight",
 			"class": "s03",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "# is the knight to this city, protects the gates of the castle. <br>His motto is Destruction! And his enemy is Captain during the 6th/5th Division (Military/Peace)",
+			"zanpakuto": "# has a zanpakuto with a shape as a sword. It's release is a big axe that can create lava and open the ground with its blade!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"ssandra": {
 			"name": "Ssandra",
 			"class": "s03",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Ssandra is daughter to Lady Quinn and her enemy is Lieutenant during the 6th Division (Sniper) and Asura's Lieutenant during the 10th Division who came!",
+			"zanpakuto": "Ssandra has a zanpakuto that is just a magic rod, but its release create a full armor set on her arms, legs and body. Its power is to create and let her control sand. That also kind of their place in the desert!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"judgment": {
 			"name": "Judgment",
 			"class": "s03",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "# is the city's crusaider, like a paladin. Fighting for his GOD and Queen! His expert to use seals and destroy all of his enemies power or physical body by his chains that isn't metal, but by force! <br>His motto is Protection and Sealing! And his enemy is Captain during the 10th Division (Torture)",
+			"zanpakuto": "# has a zanpakuto with a shape as a mace and twin with a shield. The power of his shield can create a magical force that shield him from everything, make him invulnerable to get catch. The power of his mace can control an other mace with a chain from his pocket that is physical force, not metal.",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"death_priest": {
 			"name": "Death Priest",
 			"class": "s03",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "# is the city's priest, with a power to summon dark monsters and everything to protect her city and Queen! She is blind, but can see clearly by force around her. Her most powerful use is transforming her into a beholder with incredible power! <br>Her motto is Blindness! And her enemy is Captain during the 8th Division (Medic)",
+			"zanpakuto": "# has a zanpakuto with a shape as a lantern with a power to destroy light from her enemies and create illusions in the darkness! A summoning she used to this zanpakuto combination, is a void walker, a dark creature like a nightmare that can't be seen in the dark and has claws!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
+			"skin" : {
+				"Nightmare": {
+					"link": "death_priest1"
+				},
+				"Beholder": {
+					"link": "death_priest2"
+				}
+			}
 		},
 		"death_time": {
 			"name": "Death Time",
 			"class": "s03",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "# is the keeper in the city's dungeon. He got the power to take his enemies inside a time prison, they can't be killed, but they can be tortured for a long time, which then only becomes a second outside the prison. <br>His motto is Time and Death! And his enemy is Captain during the 7th Division (Wisdom)",
+			"zanpakuto": "# has a zanpakuto with a shape as a scythe, it has the power to let him time travel! Makes him know everything about his enemy!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"queen": {
-			"name": "Queen",
+			"name": "Lady Quinn",
 			"class": "s03",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Lady Quinn is the queen in the city, and the strongest. She can strong kudo spells and fast in fighting. Her power is to create pain by her claws without touching her enemy! <br>Her motto is Pain and Ruler! And her enemy is Captain during the 9th Division (Execute)",
+			"zanpakuto": "Lady Quinn has a zanpakuto with a shape as a stave by bones and a skull, it has the power to create real kudo without element, like a Zero in Bleach, but more like dust. Everything that burns from this kudo is transformed into dust!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
+			"skin" : {
+				"Queen Power": {
+					"link": "queen1"
+				}
+			}
 		},
 		
 		
@@ -344,37 +391,39 @@
 		"lisa": {
 			"name": "Lisa",
 			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Lisa got created by Jack and did so she forgot her memories and what she lived for! Her get the power to make them all go to sleep, and kill with a powerful force! She killed Sniper (What they believed) that start everything, let everybody go in force and killed Captain during the 6th Division and defeated the others. <br>Her death came by the Captain during the 1st Division, but also was a trap for the Captain by a five sealing force!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
-		"kimimaro": {
-			"name": "Kimimaro",
+		"jack": {
+			"name": "Jack",
 			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Jack is one of the five powerful rank 5, and also the most intelligence, He can pull out people's souls or just make them go to sleep with powerfull force. He also created Lisa to get closer to the city with his trap! He doesn't have a zanpakuto, but has the power to create undead by dead people, or create skeletons by spirit force!<br>His enemy become Captain during the 4th Division (Information)",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
-		"black": {
-			"name": "Black",
+		"lilith": {
+			"name": "Lilith",
 			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
-		},
-		"monsters": {
-			"name": "Monsters",
-			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Lilith is one of the five powerful rank 5, and also the most fearless that makes her to a leader to all the monsters she also control! <br>Her enemy become Captain during the 3rd Division (Defense).",
+			"zanpakuto": "Lilith has a zanpakuto with a shape as a scythe with blades on both side but one in top and one in the bottom of the stave! It has the power to cut everything like it was all leafs!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
+			"skin" : {
+				"Bodyguard": {
+					"link": "lilith1"
+				},
+				"Creature": {
+					"link": "lilith2"
+				},
+				"Transformed Human Army!": {
+					"link": "lilith3"
+				}
+			}
 		},
 		"vlad": {
 			"name": "Vlad",
 			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #",
+			"desc": "Vlad is one of the five powerful rank 5, and also is the most powerful of them, by a dagger he hurt himself to bend his own blood, he can do the same to his enemies or the dead! You wonder how blood can kill? You herd if you can live without blood? Yes, there you got it! <br>His enemy become Captain during the 7th Division (Wisdom).",
+			"zanpakuto": "Vlad has a zanpakuto with a shape as a dagger, It second release make him become blood without flesh with a powerful force!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
 			"skin" : {
 				"Blood Release": {
 					"link": "vlad1"
@@ -384,16 +433,15 @@
 		"leaf": {
 			"name": "Leaf",
 			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "Kuro is one of the five powerful rank 5, and also the fastest, he got two blades and got the power to controll black leafs like Byakuya in Bleach but black blades! <br>His enemy become Captain during the 5th Division (Peace).",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
-		"creature": {
-			"name": "Creature",
+		"boss": {
+			"name": "Boss",
 			"class": "s04",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "# is one of the five powerful rank 5, and also the boss! He got the power to create gravity or sending meteor from the universe! <br>His enemy become Captain during the 2nd Division (Wisdom).",
+			"zanpakuto": "# has a zanpakuto with a shape as a ring with a power to transform into whatever he wants, from a chair into a dog or to a big giant!",
+			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		
 		
@@ -403,63 +451,42 @@
 		"blood": {
 			"name": "Blood",
 			"class": "monsters",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "This monster is a level one, but always hunt alone as a spider queen, seeking farmers or soldiers that are alone. They are always hard to find, because they always go back to their nest that often is a cave, but the military knows how to find them, and easy to kill them because their always alone as I said!"
 		},
 		"flesh": {
 			"name": "Flesh",
 			"class": "monsters",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "This monster is a level one, always goes into groups and uses the scent and sensation of vibration in the air to see its target. They always sneak at night to find human flesh, in other words, they love to hunt for flesh inside small villages! When this happens, the military is always sent to the crime scene to put an end to the misery."
+		},
+		"plant": {
+			"name": "Plant",
+			"class": "monsters",
+			"desc": "This monster is a level two, and the first monster slain in episode 1 by the five, no Silvia! This monster uses its tentacles and roots under the ground to capture its prey before eating them alive with its big mouth."
 		},
 		"spirit": {
 			"name": "Spirit",
 			"class": "monsters",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "This monster is a level two, and seeking souls from human bodies! It's camouflages as a tree makes it harf for the military to find it, and it's strong with its branches! It can create several branches and all back those who have been cut down!"
 		},
 		"physical": {
 			"name": "Physical",
 			"class": "monsters",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "This monster is a level two, and is just big and dangerous with its claws!"
 		},
 		"level3": {
-			"name": "Level 3",
+			"name": "Giant",
 			"class": "monsters",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "This monster is a level three, and is big enough to destroy a whole village, no, a whole city! They have no intelligence more than trying to destroy everything in their path! Captains usually send out FBI agents or lieutenants to stop this threat, but can also be a captain himself who stops the threat!"
 		},
-		"level4": {
+		"level6": {
 			"name": "Level 4",
 			"class": "monsters",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+			"desc": "This monster is a level four, Don't Need to be bigger, but they are intelligent and have a power to create illusions inside weak people's mind! They can have a zanpakuto, but no knowledge of using it more than killing with! Captains can have a hard time knowing who to send out, usually they are about situations and what they have to deal with!"
 		},
-		
-		
-		
-		
-		
-		"zanpakuto": {
-			"name": "Zanpakuto",
-			"class": "power",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
-		},
-		"kido": {
-			"name": "Kido",
-			"class": "power",
-			"desc": "",
-			"zanpakuto": "",
-			"stats": "Stats: Offense #, Defense #, Mobility #, Power #, Intelligence #"
+		"level5": {
+			"name": "Level 5",
+			"class": "monsters",
+			"desc": "This monster is a level five, with different powers and a zanpakuto with a similar force like everyone else's zanpakuto! Make it more dangerous than any other threat! But they do not have to be powerful, in more than 100 years it has never come as powerful as the 5 on S04! Just look at S01 so you understand! And yes, they first 5 enemies is a level five monster!"
 		}
 	}
 }
