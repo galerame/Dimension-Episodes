@@ -3,44 +3,63 @@
 		"slash": {
 			"name": "Slash",
 			"class": "military",
-			"desc": "Slash's one of the top five during the military, and the one in charge then their lieutenant isn't with them because he is best in strategy and teamwork.",
-			"zanpakuto": "Slash has a zanpakuto with a shape as a kama split in two connected by a chain, it let him catch his enemies then attack. It second release increases it's size and have two blades each kama.",
-			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [2] Stamina [1]"
+			"desc": "Slash's one of the top five during the military, his the best in strategy and teamwork.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [2] Stamina [1]",
+			"zanpakuto": "His Zanpakuto is two Kamas connected by a chain. It's only for the physical in combat, and good in strategy to catch his enemies.",
+			"second": "It Second Release extend the grip and makes the Kama greater with one extra blade on the other side. In combat, it can slice everything it touches.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Lightning in Chain; is a Ten'notsukai spell (Power of Heaven) that create a golden lightning. Slash using this usually in combat after catching his enemy with his chain, to harm it badly. But he can also uses this in combat without his chain, by sending the lightning from his Kamas to his enemy some meters away.",
+			"tsuyo2": "Tengoku: Golden Spears; is a Ten'notsukai spell (Power of Heaven) that create a duplicating spear of golden light after being thrown. Piercing through enemies, but not harming their skin, just seal their bodey parts it hit and harm their spirit.",
+			"tsuyo3": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo4": "風 Fū: Cutting Blow; is a Genso spell (One of the four Elements) that in this purpose create a big blow from the wind element.",
+			"tsuyo5": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		"pierce": {
 			"name": "Pierce",
 			"class": "military",
-			"desc": "Pierce's one of the top five during the military, he's not just excellent in fighting, he's best of all top five by fighting with weapon.",
-			"zanpakuto": "Pierce has a zanpakuto with a shape as a spear, it has the power to increase its size to let him pierce through enemies in long distance, or helping him to jump or other things in his fighting style.",
-			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]"
+			"desc": "Pierce's one of the top five during the military, his the best in combat and fighting with just weapon tactics.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]",
+			"zanpakuto": "His Zanpakuto is a spear, witch can extend its size in combat by thinking on his mind, but saying its name divide it by chains.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Akuma: Demon of Destruction; is a Tenma spell (Power of the Demons) that destroy your enemy if the enemy is connected by your blade. If the enemy has a powerful spirit, they just take serious damage."
 		},
 		"blunt": {
 			"name": "Blunt",
 			"class": "military",
-			"desc": "Blunt's one of the top five during the military, he's not the smartest or fastest, but he's strength are increadible. He's best with magnetic power to control his weapon",
-			"zanpakuto": "Blunt has a zanpakuto with a shape as a mace, it can multiplies or get bigger with his will and power.",
-			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]"
+			"desc": "Blunt's one of the top five during the military, his the best to using the magnetic force.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]",
+			"zanpakuto": "His Zanpakuto is a one-handed mace. It has the power to duplicate itself, while he using the magnetic force, they can circulating around him while duplicating.",
+			"second": "It Second Release is just for one final attack while it grow much bigger, almost as big as a tree.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Flash Light; is a Ten'notsukai spell (Power of Heaven) that blind everyone by a light in a flash, that also can be a beam from his hand.",
+			"tsuyo2": "Tengoku: Power of Divine; is a Ten'notsukai spell (Power of Heaven) that increase his weapon/weapons to destroy its target.",
+			"tsuyo3": "Tengoku: Golden Cube; is a Ten'notsukai spell (Power of Heaven) that trap everyone inside a golden cube by stepping in to the circle the spell was set.",
+			"tsuyo4": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		"doctor_linn": {
 			"name": "Doctor Linn",
 			"class": "military",
-			"desc": "Linn's one of the top five during the military, and also their doctor, can heal and not bad as you think to just be a doctor, she also the fastest in their team!",
-			"zanpakuto": "Linn has a zanpakuto with a shape as a dagger, it has the power to heal who she wants by chop the tip of the dagger in to the wound, and say it's name.",
-			"stats": "Stats: Offensive [1] Defensive [1] Mobility [2] Force [1] Wisdom [2] Stamina [1]"
+			"desc": "Linn's one of the top five during the military, she's their doctor and also the fastest in combat with her rogue skills by backstabbing or catching with her rope spell.",
+			"stats": "Stats: Offensive [1] Defensive [1] Mobility [2] Force [1] Wisdom [2] Stamina [1]",
+			"zanpakuto": "Her Zanpakuto is a dagger. It has the power to heal wounds by chop the tip of the dagger in to their wound and say it name.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Golden Rope; is a Ten'notsukai spell (Power of Heaven) that create a golden rope that helps you catch your enemies by it self.",
+			"tsuyo2": "Tengoku: Holy Heaven; is a Ten'notsukai spell (Power of Heaven) that let you heal your wounded allies by touching them."
 		},
 		"silvia": {
 			"name": "Silvia",
 			"class": "military",
-			"desc": "Silvia is the new during the military, practices to reach a higher level, but she also is a strong fighter and have a greate zanpakuto.",
-			"zanpakuto": "Silvia has a zanpakuto with a shape as a curved sword, but can also become a long crescent that can slice enemies by spinning around.",
-			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]"
+			"desc": "Silvia's the new recruitis saved by the top five during the military. She's the most caring and kind one with an high level in combat.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]",
+			"zanpakuto": "Her Zanpakuto is a curved sword as the half-moon. It has the power to create a magical force as a thousand of blades in one attack, that crushing everything it touches. Its power come from the will of saving her allies, with other words, her kindness is the key of her ability."
 		},
 		"percy": {
 			"name": "Percy",
 			"class": "military",
-			"desc": "Percy only appears in one episodes, he becomes possessed by his own zanpakuto! This part just want to show how the captain of the 9th Division act.",
-			"zanpakuto": "Percy has a zanpakuto with a shape as a sword, it has the power to control the shadow! It's second release transforming him in to a shadow.",
-			"stats": "Stats: Offensive [1] Defensive [1] Mobility [1] Force [3] Wisdom [1] Stamina [1]",
+			"desc": "Percy's only during in Episode 10-11. He wants to join the Agents in Division 9th (Execute), but their Captain said no. He became friendly to the top five during the military, brought them to a temple he had heard of lying hidden in the woods. But after fighting against a Level 2 monster, and that's when he used his second release.",
+			"stats": "Stats: Offensive [1] Defensive [1] Mobility [1] Force [1] Wisdom [1] Stamina [1]",
+			"zanpakuto": "His Zanpakuto is a smal sword. It has the power to create black dust out of shadows. He can also went through his shadow and pop up from someone else's shadow.",
+			"second": "It Second Release transform him to a shadow reaper. In the episode, he became this form, but was controlled and tried to kill the top five and had succeed if the Captain during the 9th division didn't rescue them and killed Percy.",
 			"skin" : {
 				"Repossessed": {
 					"link": "percy1"
@@ -55,44 +74,79 @@
 		"first_lieutenant": {
 			"name": "Yui",
 			"class": "lieutenant",
-			"desc": "Yui's Lieutenant during the 1st Division, the youngest of all the lieutenants, but being the youngest doesn't make her the most powerful, but she is one of the most knowledgeable in Tsuyo and also a teacher in Tsuyo at the Tsuyo school.",
-			"zanpakuto": "Yui has a zanpakuto with a shape as a staff, it has the power to create fire and let her bend it. She has a good control with the fire and make it easy to control it into shapes like walls or tornados.",
-			"stats": "Stats: Offensive [2] Defensive [5] Mobility [2] Force [4] Wisdom [5] Stamina [3]"
+			"desc": "Yui's Lieutenant during the 1st Division, and also the youngest of all the Lieutenants. She's not the strongest, but she is one of the most knowledgeable in Tsuyo and also a teacher at the Tsuyo school.",
+			"stats": "Stats: Offensive [2] Defensive [5] Mobility [2] Force [4] Wisdom [5] Stamina [3]",
+			"zanpakuto": "Her Zanpakuto is a staff. It has the power to create fire and let her bend it such as an easy way, thats makes it so dangerous. She also has the power to control every fire in her way, that aslo makes fire as her own weapon, even if its her opponents fire.",
+			"second": "It Second Release create so much fire in the area, and also so powerful, that her hair, clothes became fire, and she start to looks like the sun itself.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Golden Rope; is a Ten'notsukai spell (Power of Heaven) that create a golden rope that helps you catch your enemies by it self.",
+			"tsuyo2": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo3": "Tengoku: Golden Webb; is a Ten'notsukai spell (Power of Heaven) that create an invisible golden webb in an area that will catch enemies walking on it, that's also replicate itself.",
+			"tsuyo4": "火 Ka: Blue Fire; is a Genso spell (One of the four Elements) that create a powerful strike of blue fire.",
+			"tsuyo5": "水 Sui: Freezing Water; is a Genso spell (One of the four Elements) that create a powerful strike of water that's freezing every target hit, also freeze targets into ice.",
+			"tsuyo6": "風 Fū: Lightning Blow; is a Genso spell (One of the four Elements) that create a powerful strike of lightning.",
+			"tsuyo7": "Akuma: Shadow Mimic; is a Tenma spell (Power of the Demons) that let you jump away from your body invisible just to get away from a seal or dodge the targets attack. You can control it by standing still in an other place and talk, that makes your target still believe it's you, or suprise your target by a backstab or counter attack.",
+			"tsuyo8": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		"law_lieutenant": {
 			"name": "Brenda",
 			"class": "lieutenant",
-			"desc": "Brenda's Lieutenant during the 2nd Division, and also known as the flash because of her technique to teleport with just a blink. She also is expert to leave behind Tsuyo spells while she blink that let her eazy trap her enemies. One spell she always does is creating small bubbles around the area, they explode like real bombs.",
-			"zanpakuto": "Brenda has a zanpakuto with a shape as a fencing sword, it has the power to multiplie metal atoms, to make a weapon heavier to stopping them to fend off her attacks or with other words, stopping them to use their weapon completely! It second release is a umbrella with the blade between the grip and the tip a few centimeters above. It can create a strong magical blast by purely Tsuyo, that stack by fencing with her sword and absorbing her opponent's power.",
-			"stats": "Stats: Offensive [4] Defensive [4] Mobility [3] Force [3] Wisdom [5] Stamina [4]"
+			"desc": "Brenda's Lieutenant during the 2nd Division. The only Lieutenant who's mastered the Blink technique, and also expert to left some Tsuyo spells after her. Brenda has an unique fighting style, she's the only one who's fighting like a fencing. And also the one who wants the enemy to deflect with it's weapon, because of her Zanpakuto. She's fighting to get forgiveness from her targets, and in same time punish them by the power of her Zanpakuto.",
+			"stats": "Stats: Offensive [4] Defensive [4] Mobility [3] Force [3] Wisdom [5] Stamina [4]",
+			"zanpakuto": "Her Zanpakuto is a smal blade like a fencing sword. It has the power to multiplie the atoms of targets weapons by hitting it with her Zanpakuto. It makes their weapon heavier by double of its weight per attack.",
+			"second": "It Second Release transform her fencing sword to an umbrella with blade in the fencing side of the umbrella. It gain the power to steal the force from her opponent's spirit, in to the sword, that can send the ending blow by your opponents spirit in to a spirit blast Brenda launch. But it loses the power to make everything heavier.",
+			"spell": "Tsuyo",
+			"tsuyo1": "水 Sui: Atomic Bubbles; is a Genso spell (One of the four Elements) that create some bubbles around a place, that will explode an incredible force.",
+			"tsuyo2": "水 Sui: Freezing Water; is a Genso spell (One of the four Elements) that create a powerful strike of water that's freezing every target hit, also freeze targets into ice.",
+			"tsuyo3": "水 Sui: Water Bubble; is a Genso spell (One of the four Elements) that create a big bubble around the place, filled with water and then it becomes more difficult to move inside. (Except Brenda, because of her Blink technique)"
 		},
 		"defense_lieutenant": {
 			"name": "Conan",
 			"class": "lieutenant",
-			"desc": "Conan's Lieutenant during the 3rd Division, has much to learn to being a lieutenant in the defences, but is also the strongest in fighting by all of the lieutenants because of his calmness and listen to his enemies.",
-			"zanpakuto": "Conan has a zanpakuto with a shape as a Katana split in two as twins, but always fighting with one arm on his back until he needs the second one. The zanpakuto has a demon pet that Conan can control, a demon who moves between dimensions and burn all things it bites and can create a burning ray from it's horns. It second release become petrified magma around the handles and a burning blade that not only burns down everything it touches, without melting down, destroying as if it is made out of Tsuyo.",
-			"stats": "Stats: Offensive [4] Defensive [4] Mobility [3] Force [3] Wisdom [4] Stamina [4]"
+			"desc": "Conan's Lieutenant during the 3rd Division. The one who would win against each of the Lieutenants because of his strength and knowledge. He's also always holding back in a fight, with one arm behind his back, even if he got two twin-blades. If he wasn't young, he would has surpass to the Captain level. But by the Captain during the 3rd Division, Conan has much to learn to being a Captain during the 3rd Division. Conan has learn to listen in a fight, and became the quiet one. His not like Yenene, but his not speaking much, except when someone claim him as non-Lieutenant.",
+			"stats": "Stats: Offensive [4] Defensive [4] Mobility [3] Force [3] Wisdom [4] Stamina [4]",
+			"zanpakuto": "his Zanpakuto is two twin-blades. It has a shadow pet that moves through shadows and physical things like if it was nothing. It is controlled by Conan and burn everthing it bites, and also can breath a powerful ray that burns everything into ash.",
+			"second": "It Second Release become petrified magma around the grip and a the blades start to glow by a hot heat of demonic fire. Everything it touches, burns to ash. It is so powerful, no; he is so powerful, even shields by Tsuyo can't stop his blades.",
+			"items": "Items",
+			"item1": "Secret Tattoo; a tattoo thats looks like a chain-braceleta, that Conan can take off in a escape, that will explode. It will not remove from his arm, it will duplicate and looks like he remove it, but more like copy it to something physical.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Shīru: Binding Spirit; is a Shinzui spell (Power of Spirit) that binding their arms together, and stop their spirits to move them."
 		},
 		"information_lieutenant": {
 			"name": "Yenene",
 			"class": "lieutenant",
-			"desc": "Yenene's Lieutenant during the 4th Division, The only lieutenant who actually barely talk to anyone except the person she must be. Most people are afraid of her, The only lieutenant who actually barely talk to anyone except the person she must be. Most people are afraid of her, and the others may be surprised to even see a smile from her lips. She has always been different, but it is why just she was chosen to become the lieutenant from the captain of the 4th Division.",
-			"zanpakuto": "Yenene has a zanpakuto with a shape as a sword with a snake head on the grip and marks on the blade. It has the power to paralyzes the body parts she cuts, but the bigger the wound, the faster it gives effect. It second release open the eyes of the snake on the grip, anyone who looks at her sword turned into stone. It also has the Force to summon snakes who listen to her commands and one bite from this snakes paralyzes the body in a short time.",
-			"stats": "Stats: Offensive [3] Defensive [2] Mobility [2] Force [4] Wisdom [4] Stamina [2]"
+			"desc": "Yenene's Lieutenant during the 4th Division, The only Lieutenant who actually barely talk to anyone except the person she must be. Most people are afraid of her, and the others may be surprised to even see a smile from her lips. She has always been different, but it's why she was chosen to become the Lieutenant from the Captain during the 4th Division.",
+			"stats": "Stats: Offensive [3] Defensive [2] Mobility [2] Force [4] Wisdom [4] Stamina [2]",
+			"zanpakuto": "Her Zanpakuto is a sword with a grip shaped as a snake mouth. It has the power to paralyzes the body parts she cuts, the bigger wound, the faster it gives effect.",
+			"second": "It Second Release open the eyes of the snake on the grip, anyone who looks at her sword turnes into stone.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Summoning: Snakes; Yenene summon some snakes that strike her target."
 		},
 		"peace_lieutenant": {
 			"name": "Felicia",
 			"class": "lieutenant",
-			"desc": "Felicia's Lieutenant during the 5th Division, to be lieutenant in the division of peace, she most become the strongest, to protect everyone! She doesn't speak like a bitch, but she know what real pain is. (Elise killed her parents about 20 years ago)",
-			"zanpakuto": "Felicia has a zanpakuto with a shape as a greate sword, one of the strongest swords they ever seen. It second release can only start if she has the tip under the ground, it takes energy from the nature and when she has release it, it let her control the earth and nature.",
-			"stats": "Stats: Offensive [5] Defensive [2] Mobility [1] Force [3] Wisdom [3] Stamina [4]"
+			"desc": "Felicia's Lieutenant during the 5th Division. The strongest Lieutenant by raw physical strength. She doesn't speak like a bitch, but she know what real pain is. First time you even see her fight, is when she save Asura during the 10th Division, against Elise who also killed her parents about twenty years ago.",
+			"stats": "Stats: Offensive [5] Defensive [2] Mobility [1] Force [3] Wisdom [3] Stamina [4]",
+			"zanpakuto": "Her Zanpakuto is a great sword with runes on the blade. It has the power to absorb every Tsuyo and send it back stronger. In same time.",
+			"second": "It second release can only start if she has the tip under the ground, it takes energy from the nature and when she has release it, it let her control the earth and nature.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Golden Rope; is a Ten'notsukai spell (Power of Heaven) that create a golden rope that helps you catch your enemies by it self.",
+			"tsuyo2": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo4": "火 Ka: Fire Ball; is a Genso spell (One of the four Elements) that create a ball of fire, that explode at the target hit.",
+			"tsuyo8": "Akuma: Shadow Mimic; is a Tenma spell (Power of the Demons) that let you jump away from your body invisible just to get away from a seal or dodge the targets attack. You can control it by standing still in an other place and talk, that makes your target still believe it's you, or suprise your target by a backstab or counter attack.",
+			"tsuyo9": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		"military_lieutenant": {
 			"name": "Sniper",
 			"class": "lieutenant",
-			"desc": "Sniper's Lieutenant during the 6th Division, known for being one of the top five during the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper got the title of lieutenant, but not great as the others, she has fought for years to be accepted for 100% out of her captain, yet only seen as one of the five in the military.",
-			"zanpakuto": "Sniper has a zanpakuto with a shape as a sword split in two as twins, it is just two twin sword into she realese to it's full form, a bow with a power to launch Tsuyo as arrows. Multiplies from 1 to one hundred of arrows with an ability to let her focus on the arrows and control them with her power. She's not as powerful yet, that makes it takes a lot of her energy to induce this power, but they are powerful enough to kill anyone who is not in a much higher level.",
-			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [3] Wisdom [1] Stamina [1] <br>Stats: Offensive [4] Defensive [1] Mobility [3] Force [5] Wisdom [2] Stamina [3]",
+			"desc": "Sniper's Lieutenant during the 6th Division, known for being one of the top five during the military and team up with Slash, Pierce, Blunt and doctor Linn. Sniper got the title of lieutenant, but not great as the others. She has fought for years to be accepted by the Captain during the military, but still only seen as one of the five in the military by the Captain. Until Season Two, when the Captain during the military; brought her to a cave and trained her, so she could defeat the fallen angel Elise.",
+			"stats": "Stats: Offensive [2] Defensive [1] Mobility [1] Force [2] Wisdom [2] Stamina [1] <br>Stats: Offensive [4] Defensive [2] Mobility [3] Force [5] Wisdom [2] Stamina [3]",
+			"zanpakuto": "Her Zanpakuto is two twin-swords, which is a great fighting style to use in combat.",
+			"second": "It Second Release transform the two twin-blades into a bow, which can let Sniper fire magical arrows by pulling the string to her. In other words, Sniper is launching Tsuyo in physical form that can multiplying from 1-100 arrows. Sniper can also control the arrows to seek to its target, but because of the great power by launching Tsuyo so easily, it also tires her down really fast.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Golden Spears; is a Ten'notsukai spell (Power of Heaven) that create a duplicating spear of golden light after being thrown. Piercing through enemies, but not harming their skin, just seal their bodey parts it hit and harm their spirit.",
+			"tsuyo2": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo3": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you.",
 			"skin" : {
 				"Lieutenant Level": {
 					"link": "military_lieutenant1"
@@ -102,23 +156,56 @@
 		"intelligence_lieutenant": {
 			"name": "Misty",
 			"class": "lieutenant",
-			"desc": "Misty's Lieutenant during the 7th Division, and also is the one who thinks the most about responsibility. Because of her captain who always bring her with him then they have meetings just to learn her how it is in the captain level, then the others doesn't think their lieutenant shall take that responsibility. That also makes her a mindset that when they do not have any recruits who can take the job, she takes responsibility.",
-			"zanpakuto": "Misty has a zanpakuto with a shape as a katana, it is the first zanpakuto with two powers, a water shadow and a fire shadow. They let her create a waterball or a fireball by her will and together they can create hot steam. She is like she was a spell caster, without a second release, she can say their name and create waves and mist by her water power to chill enemies or burn them with hot water or blind them by a thick smoke. Her two strongest attacks is a circle that freeze everything inside, and a whirl by fire! They say it is her two second release just because she say their names, but it isn't. It just give her the power to create this elements and that makes her strong.",
-			"stats": "Stats: Offensive [3] Defensive [3] Mobility [2] Force [3] Wisdom [3] Stamina [3]"
+			"desc": "Misty's Lieutenant during the 7th Division. The most serious and taking everything as her responsibility. Because of her captain who always bring her with him then they have meetings just to learn her how it is in the captain level, then the others doesn't think their lieutenant shall take that responsibility. That also makes her a mindset that when they do not have any recruits who can take the job, she takes responsibility.",
+			"stats": "Stats: Offensive [3] Defensive [3] Mobility [2] Force [3] Wisdom [3] Stamina [3]",
+			"zanpakuto": "Her Zanpakuto is a Katana with symbols from the blue sea-dragon and a meter long band stuck with the grip. It has the power to create water. Either fill the entire room with waves, or cut everything it touches with a blade-shaped water. She can also freeze everything to ice, or create a drawing-like thick fog. Many techniques can she use with this water and same time with ice.",
+			"second": "It Second Release transform it to a full White Katana. It gain the power to freeze everything the sword touches, and every water that it could create appears now as ice and frost.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Golden Rope; is a Ten'notsukai spell (Power of Heaven) that create a golden rope that helps you catch your enemies by it self.",
+			"tsuyo2": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo3": "Tengoku: Golden Webb; is a Ten'notsukai spell (Power of Heaven) that create an invisible golden webb in an area that will catch enemies walking on it, that's also replicate itself.",
+			"tsuyo4": "火 Ka: Fire Ball; is a Genso spell (One of the four Elements) that create a ball of fire, that explode at the target hit.",
+			"tsuyo5": "火 Ka: Blue Fire; is a Genso spell (One of the four Elements) that create a powerful strike of blue fire.",
+			"tsuyo6": "水 Sui: Freezing Water; is a Genso spell (One of the four Elements) that create a powerful strike of water that's freezing every target hit, also freeze targets into ice.",
+			"tsuyo7": "風 Fū: Lightning Blow; is a Genso spell (One of the four Elements) that create a powerful strike of lightning.",
+			"tsuyo8": "Akuma: Shadow Mimic; is a Tenma spell (Power of the Demons) that let you jump away from your body invisible just to get away from a seal or dodge the targets attack. You can control it by standing still in an other place and talk, that makes your target still believe it's you, or suprise your target by a backstab or counter attack.",
+			"tsuyo9": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		"medic_lieutenant": {
 			"name": "Nidra",
 			"class": "lieutenant",
-			"desc": "Nidra's Lieutenant during the 8th Division, sister to doctor Linn and excellent Tsuyo user. You doesn't know her so much except that she is caring and friendly as a doctor should be, but to be her enemy, you never forget.",
-			"zanpakuto": "Nidra has a zanpakuto with a shape as a short sword, it has the power to create illusions just have been seen by the enemy, that let Nidra decide what should happen. It second release transforming into a mythological creature that can create nightmares into reality, illusions into reality and get their enemies to go to sleep.",
-			"stats": "Stats: Offensive [1] Defensive [4] Mobility [1] Force [2] Wisdom [3] Stamina [1]"
+			"desc": "Nidra's Lieutenant during the 8th Division, sister to Doctor Linn and excellent object user with knowledge of seal enemies with Tsuyo spells. Her job is inside the hospital to take care of illness or injury. She doesn't appears in the battles often, but when she does, and also in the front line, she isn't someone to play with.",
+			"stats": "Stats: Offensive [1] Defensive [4] Mobility [1] Force [2] Wisdom [3] Stamina [1]",
+			"zanpakuto": "Her Zanpakuto is a golden short-sword with a silver blade. It has the power to create illusions, that change all the senses, such as hearing, sight and smell.",
+			"second": "It second release transforming into a mythological creature that can create nightmares into reality, illusions into reality and get her enemies to go to sleep.",
+			"items": "Items",
+			"item1": "Golden Orb; a object that create an instant flash that blindes enemies and let Nidra create her illusions easier.",
+			"item2": "Cup of Life; a forbidden object that let you seal your targets soul inside a cup after you put some blood from the target in to the cup.",
+			"item3": "Moroccan Oil Lamp; a lamp that can create a powerful tornado.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo2": "Tengoku: Golden Webb; is a Ten'notsukai spell (Power of Heaven) that create an invisible golden webb in an area that will catch enemies walking on it, that's also replicate itself.",
+			"tsuyo3": "地 Chi: Ultimate Gravity; is a Genso spell (One of the four Elements) that create gravity in the stones that makes targets inside that area, heavier and can't stand of the weight.",
+			"tsuyo4": "Akuma: Shadow Mimic; is a Tenma spell (Power of the Demons) that let you jump away from your body invisible just to get away from a seal or dodge the targets attack. You can control it by standing still in an other place and talk, that makes your target still believe it's you, or suprise your target by a backstab or counter attack.",
+			"tsuyo5": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		"execute_lieutenant": {
 			"name": "Blade",
 			"class": "lieutenant",
-			"desc": "Blade's Lieutenant during the 9th Division, and also is the one closest to their captain, she sees her captain as her big sister and always want to make her proud. She is the fastest by all the lieutenant beside #'s flash technique. She get a powerful Tsuyo control and can use a fighting style with just Tsuyo as her weapon.",
-			"zanpakuto": "Blade has a zanpakuto with a shape as a dagger, it second release became twin daggers that also have two transformations. The first is her claws, the daggers are going stuck with her arms and fight as if it was one with her. The second form is a chain as a tail, let her fight with an incredible danger! It also have a third form, by releasing it's full power, as if it was a third release! Becoming like a big shuriken, let her control it with her mind and floating beside her.",
+			"desc": "Blade's Lieutenant during the 9th Division. The closest to Captain during the 9th Division, as if their were sisters. She hates everything thats illegal and disrespectful choices, in other words, she hates the 10th and 4th Division. She's also the fastest of all the Lieutenants except Brenda during the 2nd Division because of her excellent Blink Technique. She's the best in close combat with increadible trap cards and the only one with a fighting stile by fighting with Tsuyo in a shape of blades.",
 			"stats": "Stats: Offensive [4] Defensive [1] Mobility [5] Force [2] Wisdom [2] Stamina [2]",
+			"zanpakuto": "Her Zanpakuto is a blade, thats only for the physical in combat.",
+			"second": "It Second Release transform the blade into two twin-blades that also can transform into different weapon stiles, such as Twin-blades, Claws, Chained Twin-blades. It gives her the opportunity to fight in different fighting styles, thats makes her hard to understand. <br>It also has a third Release, that transform her weapon to a big four-bladed shuriken that is floating and controlls by her mind and will, without needs from the magnetic force.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Golden Rope; is a Ten'notsukai spell (Power of Heaven) that create a golden rope that helps you catch your enemies by it self.",
+			"tsuyo2": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo3": "Tengoku: Golden Webb; is a Ten'notsukai spell (Power of Heaven) that create an invisible golden webb in an area that will catch enemies walking on it, that's also replicate itself.",
+			"tsuyo4": "Tengoku: Trapcard; is a Ten'notsukai spell (Power of Heaven) that also renames by the element you want to use. You mark a place you want to set the trap, and it will replicate after your enemies went through the mark. Ether it explode as fire, or also the power of heaven creates golden lightning and stunning its target. It can also be a great blow from the wind element, or other stuff.",
+			"tsuyo5": "火 Ka: Blue Fire; is a Genso spell (One of the four Elements) that create a powerful strike of blue fire.",
+			"tsuyo6": "水 Sui: Freezing Water; is a Genso spell (One of the four Elements) that create a powerful strike of water that's freezing every target hit, also freeze targets into ice.",
+			"tsuyo7": "風 Fū: Lightning Blow; is a Genso spell (One of the four Elements) that create a powerful strike of lightning.",
+			"tsuyo8": "Akuma: Shadow Mimic; is a Tenma spell (Power of the Demons) that let you jump away from your body invisible just to get away from a seal or dodge the targets attack. You can control it by standing still in an other place and talk, that makes your target still believe it's you, or suprise your target by a backstab or counter attack.",
+			"tsuyo9": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you.",
 			"skin" : {
 				"Second Release": {
 					"link": "execute_lieutenant1"
@@ -132,7 +219,7 @@
 				"Chain Transformation": {
 					"link": "execute_lieutenant3"
 				},
-				"Full Power": {
+				"Third Release": {
 					"link": "execute_lieutenant5"
 				}
 			}
@@ -140,14 +227,15 @@
 		"torture_lieutenant": {
 			"name": "Asura",
 			"class": "lieutenant",
-			"desc": "Asura's Lieutenant during the 10th Division. Maybe he is not exactly the most legal thing lieutenant, but he cares more about peace than you think. His bossy behavior is to show the territory, what he has learned is to show the strong and cocky side, because if you not, they will kick you down as he was as a child with a rough childhood.",
-			"zanpakuto": "Asura has a zanpakuto with a shape as a demon sword, it has the power to implant demonic power in to his body, that makes his arm bigger and get a black skin. The sword also get increased size by how much power he use, and all the demonic power he get, increases his muscles that increases his strength, speed, power and an ability to fire Tsuyo with a shape as black lightning. It second release make the blade into a dimension, that makes it impossible to see and let it cut whatever it wants that isn't more powerful. His body also can go in to the dimension world of his, to you it's like he teleporting with a sort of a blink technique.",
+			"desc": "Asura's Lieutenant during the 10th Division. The most disliked lieutenant in the top ten, because of all the illegal things he does with his Captain during the 10th Division. With a rough childhood, he learned that; If you don't get tough, you will be kicked down yourself. Thats why he always very cocky to show his territory, but never his will to hurt anyone. And also because of his Zanpakuto, if he show it he's a pussy, it will start to control him.",
 			"stats": "Stats: Offensive [3] Defensive [1] Mobility [2] Force [3] Wisdom [2] Stamina [3]",
-			"skin" : {
-				"Demon Power": {
-					"link": "torture_lieutenant1"
-				}
-			}
+			"zanpakuto": "His Zanpakuto is a full-black Katana. It has the power to give him demonic strength, which increases his size of his arm and in same time the Katana get bigger. Everything is how much power he uses and borrow from his Zanpakuto. In his missions, he uses his power to change his eyes by this power to gain night vision. <br>He also got a second power while his arm is demonic powered, he can creat black lightning; like Tengoku: Lightning in Chain, but Tsuyo with demonic force.",
+			"second": "It Second Release transform all of his skin into this demonic power, but doesn't change the size of his arms, instead he gain a mask and a powerful force to his strength.",
+			"spell": "Tsuyo",
+			"tsuyo1": "Tengoku: Seal of Heaven; is a Ten'notsukai spell (Power of Heaven) that catch your enemy by four golden lights that stop their nerves, in other words, they can't move.",
+			"tsuyo2": "Akuma: Demonic Rage; is a Tenma spell (Power of the Demons) that launch multi of red lights of demonic power that seeking to its target and hurt their spirit highly.",
+			"tsuyo3": "Akuma: Shadow Mimic; is a Tenma spell (Power of the Demons) that let you jump away from your body invisible just to get away from a seal or dodge the targets attack. You can control it by standing still in an other place and talk, that makes your target still believe it's you, or suprise your target by a backstab or counter attack.",
+			"tsuyo4": "Anti-Tsuyo: Spirit Shield; is a spell that the most of them can create, a ordinary shield against Tsuyo. A blue bubble around you to absorb every Tsuyo that uses against you."
 		},
 		
 		
@@ -169,7 +257,7 @@
 			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"defense": {
-			"name": "Defense",
+			"name": "Defence",
 			"class": "captain",
 			"desc": "#'s Captain during the 3rd Division, and also is like a monk and the kindest of all the captains, thinking the best for everyone. Proud of his lieutenant, but know he have much to learn to being inside the 3rd division! # is also the only captain that can fly and is excellent by healing and being defencive.",
 			"zanpakuto": "# has a zanpakuto with a shape as a staff, it has the power to ? Earthquake or Air ?",
@@ -397,13 +485,13 @@
 		"jack": {
 			"name": "Jack",
 			"class": "s04",
-			"desc": "Jack is one of the five powerful rank 5, and also the most intelligence, He can pull out people's souls or just make them go to sleep with powerfull force. He also created Lisa to get closer to the city with his trap! He doesn't have a zanpakuto, but has the power to create undead by dead people, or create skeletons by spirit force!<br>His enemy become Captain during the 4th Division (Information)",
+			"desc": "Jack is one of the five powerful rank 5, and also the most intelligence, He can pull out people's souls or just make them go to sleep with powerful force. He also created Lisa to get closer to the city with his trap! He doesn't have a zanpakuto, but has the power to create undead by dead people, or create skeletons by spirit force!<br>His enemy become Captain during the 4th Division (Information)",
 			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]"
 		},
 		"lilith": {
 			"name": "Lilith",
 			"class": "s04",
-			"desc": "Lilith is one of the five powerful rank 5, and also the most fearless that makes her to a leader to all the monsters she also control! <br>Her enemy become Captain during the 3rd Division (Defense).",
+			"desc": "Lilith is one of the five powerful rank 5, and also the most fearless that makes her to a leader to all the monsters she also control! <br>Her enemy become Captain during the 3rd Division (Defence).",
 			"zanpakuto": "Lilith has a zanpakuto with a shape as a scythe with blades on both side but one in top and one in the bottom of the stave! It has the power to cut everything like it was all leafs!",
 			"stats": "Stats: Offensive [#] Defensive [#] Mobility [#] Force [#] Wisdom [#] Stamina [#]",
 			"skin" : {
